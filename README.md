@@ -17,7 +17,6 @@ Finally, we tested the program's functionality to ensure everything worked as ex
 ## Diagram of Classes using UML.
 
 <div hidden>
-
 ```
 @startuml README
 
@@ -87,7 +86,6 @@ Animal <|-- Tiger
 
 @enduml
 ```
-
 </div>
 
 ![](README.svg)
